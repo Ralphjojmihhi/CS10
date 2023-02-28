@@ -1,0 +1,21 @@
+body  {
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+   
+  h1{
+    color: maroon;
+}   
+
+h1,
+h2 {    
+    font-family: Arial, Helvetica, sans-serfi;
+}
+    
+a {
+    color: maroon
+    text-decoration: none;
+}
+
+a: :hover {
+text-decoration: underline;
+ }
